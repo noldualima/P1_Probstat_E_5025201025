@@ -62,6 +62,7 @@ Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Geometrik.
 > Var #Varians
 [1] 70
 ```
+Lampiran: ![image](https://user-images.githubusercontent.com/102939348/162630748-3a8c1e66-306a-4346-99db-023c4dafc334.png)
 
 ## Soal 2
 Terdapat 20 pasien menderita Covid19 dengan peluang sembuh sebesar 0.2. Tentukan :
@@ -105,6 +106,7 @@ Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Binomial
 > Var #Varians
 [1] 3.2
 ```
+Lampiran: ![image](https://user-images.githubusercontent.com/102939348/162630760-b9c80d38-cdcb-430b-bb49-c633844cea72.png)
 
 ## Soal 3
 Diketahui data dari sebuah tempat bersalin di rumah sakit tertentu menunjukkan rata-rata historis 4,5 bayi lahir di rumah sakit ini setiap hari. (gunakan Distribusi Poisson)
@@ -148,6 +150,7 @@ Nilai Rataan (μ) dan Varian ( σ² ) dari Distribusi Poisson.
 > Var #Varians
 [1] 6
 ```
+Lampiran: ![image](https://user-images.githubusercontent.com/102939348/162630780-5f15a5c0-574c-46b2-ada6-015decf04d46.png)
 
 ## Soal 4
 Diketahui nilai x = 2 dan v = 10. Tentukan:
@@ -176,6 +179,7 @@ Nilai Rataan (μ) dan Varian (σ²) dari Distribusi Chi-Square.
 > Var #Varians
 [1] 20
 ```
+Lampiran: ![image](https://user-images.githubusercontent.com/102939348/162630792-49989094-53ac-4379-913f-b9501dbb2d4b.png)
 
 ## Soal 5
 Diketahui bilangan acak (random variable) berdistribusi exponential (λ = 3). Tentukan:
@@ -218,6 +222,7 @@ Nilai Rataan (μ) dan Varian ( σ² ) dari Distribusi Exponensial untuk n = 100 
 > Var #Varians
 [1] 0.1111111
 ```
+Lampiran: ![image](https://user-images.githubusercontent.com/102939348/162630804-cfc48b23-616a-43b4-8a84-a839f9a4a459.png)
 
 ## Soal 6
 Diketahui generate random nilai sebanyak 100 data, mean = 50, sd = 8. Tentukan
@@ -265,3 +270,4 @@ Nilai Varian ( ) dari hasil generate random nilai σ² Distribusi Normal.
 > Var #Varians
 [1] 64
 ```
+Lampiran: ![image](https://user-images.githubusercontent.com/102939348/162630810-39ed44f9-6ffa-49e1-8daa-c8020c344719.png)
